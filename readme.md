@@ -10,3 +10,5 @@
 basePackageClasses로 클래스 기준으로 잡을 수 있다.
 
 annotation단위로도 가능하다.
+
+- @@Order(value = Integer.MAX_VALUE): 순서를 지정해 줄 수 있음. 낮을수록 빨리 됨
